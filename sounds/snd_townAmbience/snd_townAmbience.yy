@@ -14,8 +14,8 @@
   "soundFile": "snd_townAmbience.mp3",
   "duration": 15.0465307,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Town BGM",
+    "path": "folders/Sounds/Town BGM.yy",
   },
   "resourceVersion": "1.0",
   "name": "snd_townAmbience",

@@ -14,8 +14,8 @@
   "soundFile": "snd_greeting01.mp3",
   "duration": 1.248,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Conversation",
+    "path": "folders/Sounds/Conversation.yy",
   },
   "resourceVersion": "1.0",
   "name": "snd_greeting01",

@@ -62,6 +62,9 @@ if (vx != 0 || vy != 0) {
 		sprite_index = spr_player_walk_up;
 		dir = 1;
 	}
+	
+	// move audio listener with player
+	audio_listener_set_position(0, x, y, 0);
 }
 
 // check for colision with NPCs
@@ -90,6 +93,5 @@ if (!nearbyNPC) {
 	}
 }
 
-// depth sorting
 depth = -y;
 
