@@ -68,7 +68,6 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_npc_teacher","path":"objects/obj_npc_teacher/obj_npc_teacher.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":640.0,"y":544.0,"resourceVersion":"1.0","name":"inst_48D4717C","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_npc_grocer","path":"objects/obj_npc_grocer/obj_npc_grocer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2752.0,"y":2144.0,"resourceVersion":"1.0","name":"inst_108AA093","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":15.0,"scaleY":13.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-192.0,"y":-352.0,"resourceVersion":"1.0","name":"inst_4B72C152","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_textbox","path":"objects/obj_textbox/obj_textbox.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2304.0,"y":800.0,"resourceVersion":"1.0","name":"inst_A53ED36","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"tiles_town","path":"tilesets/tiles_town/tiles_town.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":10,"SerialiseHeight":6,"TileSerialiseData":[
 5,16,4,11,13,14,15,17,7,5,
@@ -136,7 +135,6 @@
     {"name":"inst_48D4717C","path":"rooms/rm_gameMain/rm_gameMain.yy",},
     {"name":"inst_108AA093","path":"rooms/rm_gameMain/rm_gameMain.yy",},
     {"name":"inst_4B72C152","path":"rooms/rm_gameMain/rm_gameMain.yy",},
-    {"name":"inst_A53ED36","path":"rooms/rm_gameMain/rm_gameMain.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
